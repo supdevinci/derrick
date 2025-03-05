@@ -123,7 +123,7 @@ Enter query (leave empty for all leaks): France
 Example:
 ```bash
 Enter severity level (default: critical): critical
-Enter number of days for the search (-d value) [5]: 7
+Enter number of days for the search [5]: 7
 Enter query (leave empty for all advisories): Apache
 ```
 
